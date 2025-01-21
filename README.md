@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aaron White</h1>
+<h1 align="center">Hi 👋, I'm Aaron Lacy</h1>
 <h3 align="center">A Full-stack developer with great passion.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aalacy&theme=darkhub&title=Stars,Commit,Repositories,PullRequest,Experience" alt="aalacy" /></a> </p>
